@@ -6,4 +6,4 @@ export default defineConfig({
 });
 export default {
   base: '/TAFL-Project/',
-}
+};
